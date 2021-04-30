@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[40],{5419:function(e,t,a){"use strict";a.r(t);var r=a(7294),s=a(7505),l=a(4967),n=a(6452);t.default=function(){return r.createElement(r.Fragment,null,r.createElement(s.Z,n),r.createElement(l.Z,{products:n.products,variant:"tile",className:"flex-wrap",itemProps:{className:"w-25"}}))}}}]);
+//# sourceMappingURL=component---src-pages-catalouge-js-4016438417e714845b42.js.map
