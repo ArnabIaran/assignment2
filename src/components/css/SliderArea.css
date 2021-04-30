@@ -1,0 +1,12 @@
+.carousel-control-next,
+.carousel-control-prev, .carousel-indicators {
+    filter: invert(100%);
+}
+.carousel-control-next,
+.carousel-control-prev {
+	width: 10%!important;
+}
+
+.caption {
+	background-image: linear-gradient(to right, white 10%, transparent);
+}

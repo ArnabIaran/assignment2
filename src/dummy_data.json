@@ -1,0 +1,181 @@
+{
+	"carouselProps": [
+		{
+			"heroSrc": "https://media.allure.com/photos/57dc1a877b47312c0ad83725/16:9/w_2560%2Cc_limit/model%252520jcrew.jpg",
+			"heading": "Enjoy Summers with Cool Colors",
+			"subHeading": "For Men & Women",
+			"altText": "slide1",
+			"url": "#"
+		},
+		{
+			"heroSrc": "https://assets.teenvogue.com/photos/5c797d620cf4c8194a0a6adf/16:9/w_2560%2Cc_limit/img224.jpg",
+			"heading": "Wear it like Kendall",
+			"subHeading": "Adidas Sneakers",
+			"altText": "slide2",
+			"url": "#"
+		},
+		{
+			"heroSrc": "https://startupfashion.com/wp-content/uploads/2019/01/how-to-start-a-clothing-line.jpg",
+			"heading": "Refreshed Clothing Line at 50% off",
+			"subHeading": "New Clothing Line",
+			"altText": "slide3",
+			"url": "#"
+		},
+		{
+			"heroSrc": "https://img2.cgtrader.com/items/124444/b24754db58/clothing-rack-2-3d-model-max-obj.jpg",
+			"heading": "Buy 1 Get 1 Free!!",
+			"subHeading": "on Out of Season clothes",
+			"altText": "Out of Season",
+			"url": "#"
+		},
+		{
+			"heroSrc": "https://images.theconversation.com/files/229828/original/file-20180730-106527-scj7hj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+			"heading": "Pop the color",
+			"subHeading": "Feel the vibe",
+			"altText": "slide4",
+			"url": "#"
+		}
+	],
+	"products": [
+		{
+			"id": "1",
+			"title": "shirt",
+			"filename": "shirt.png",
+			"price": 100,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "2",
+			"title": "sweater",
+			"filename": "sweater.png",
+			"price": 50,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "3",
+			"title": "scarf",
+			"filename": "scarf.png",
+			"price": 300,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "4",
+			"title": "suit",
+			"filename": "suit.png",
+			"price": 250,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "5",
+			"title": "Polo shirt",
+			"filename": "polo.png",
+			"price": 350,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "6",
+			"title": "Hoodies",
+			"filename": "hoodies.png",
+			"price": 400,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "7",
+			"title": "T-shirts",
+			"filename": "tshirt.png",
+			"price": 100,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "8",
+			"title": "Shorts",
+			"filename": "shorts.png",
+			"price": 150,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "9",
+			"title": "Coat",
+			"filename": "coat.png",
+			"price": 120,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "10",
+			"title": "Swim suit",
+			"filename": "swimsuit.png",
+			"price": 50,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "11",
+			"title": "Leather jacket",
+			"filename": "leatherjacket.png",
+			"price": 70,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "12",
+			"title": "Jeans",
+			"filename": "jeans.png",
+			"price": 90,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "13",
+			"title": "Hawaiian Shirt",
+			"filename": "hawaiian.png",
+			"price": 199,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "14",
+			"title": "Cardigan",
+			"filename": "cardigan.png",
+			"price": 299,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "15",
+			"title": "Jumper",
+			"filename": "jumper.png",
+			"price": 99,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "16",
+			"title": "Blazer",
+			"filename": "blazor.png",
+			"price": 99,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "17",
+			"title": "Trench coat",
+			"filename": "trench.png",
+			"price": 49,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "18",
+			"title": "Cargo pants",
+			"filename": "cargo.png",
+			"price": 59,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "19",
+			"title": "Bath robe",
+			"filename": "bathrobes.png",
+			"price": 80,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		},
+		{
+			"id": "20",
+			"title": "Sheath Dress",
+			"filename": "sheath.png",
+			"price": 149,
+			"description": "Occaecat dolore ex incididunt laborum ullamco et excepteur consectetur et est nisi voluptate occaecat dolore. Elit pariatur aute laboris officia consequat labore amet veniam."
+		}
+	]
+}
